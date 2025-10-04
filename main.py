@@ -1,10 +1,3 @@
-#FirstTime
-#himalsubedi@Mac Himal Subedi PY Projects % python3 -m venv studysession
-
-#EveryTime
-#himalsubedi@Mac Himal Subedi PY Projects % source studysession/bin/activate
-#OR
-#himalsubedi@Mac Himal Subedi PY Projects % . studysession/bin/activate
 
 import tkinter as tk
 
